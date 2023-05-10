@@ -1,4 +1,3 @@
-. /opt/local/share/asdf/asdf.sh
 export PATH="$PATH:./node_modules/.bin"
 
 alias gcl="git clone"
